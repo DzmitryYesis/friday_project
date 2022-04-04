@@ -16,6 +16,8 @@ let newNeedEditValue: boolean;
 let newNameUser: string;
 let newAvatarURL: string;
 
+// тесты пишет Андрей
+
 beforeEach(() => {
   initialState = {
     profileData: {
