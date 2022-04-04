@@ -25,7 +25,7 @@
     "typescript": "^4.5.5",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://serjge.github.io/friday_project/",
+  "homepage": "https://DzmitryYesis.github.io/friday_project/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
