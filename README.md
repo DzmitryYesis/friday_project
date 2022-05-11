@@ -26,4 +26,4 @@ cards. </p>
 - #### styled-components
 - #### eslint prettier
 
-- ### [Result](https://serjge.github.io/friday_project/)
+- ### [Result](https://dzmitryyesis.github.io/friday_project/)
